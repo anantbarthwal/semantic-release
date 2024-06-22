@@ -8,6 +8,7 @@ public class SemanticReleaseApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SemanticReleaseApplication.class, args);
+
 	}
 
 }
